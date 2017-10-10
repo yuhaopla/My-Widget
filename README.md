@@ -1,2 +1,3 @@
 # My-Widget
-some demo and widget
+Virtual remote control
+Android TV Password Dialog 
